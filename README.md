@@ -21,5 +21,5 @@ flask run --debug
 
 ## Usage
 
-`https://prag-tips-api.vercel.app/tips/` : To get all tips
-`https://prag-tips-api.vercel.app/tips/random/` : To get random tip
+- `https://prag-tips-api.vercel.app/tips/` : To get all tips
+- `https://prag-tips-api.vercel.app/tips/random/` : To get random tip
