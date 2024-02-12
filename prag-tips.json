@@ -1,0 +1,560 @@
+[
+    {
+      "Tip #1": {
+        "heading": "Care About Your Craft",
+        "description": "Why spend your life developing software unless you care about doing it well?"
+      }
+    },
+    {
+      "Tip #2": {
+        "heading": "Think! About Your Work",
+        "description": "Turn off the autopilot and take control. Constantly critique and appraise your work."
+      }
+    },
+    {
+      "Tip #3": {
+        "heading": "You Have Agency",
+        "description": "It’s your life. Grab hold of it and make it what you want."
+      }
+    },
+    {
+      "Tip #4": {
+        "heading": "Provide Options, Don’t Make Lame Excuses",
+        "description": "Instead of excuses, provide options. Don’t say it can’t be done; explain what can be done."
+      }
+    },
+    {
+      "Tip #5": {
+        "heading": "Don’t Live with Broken Windows",
+        "description": "Fix bad designs, wrong decisions, and poor code when you see them."
+      }
+    },
+    {
+      "Tip #6": {
+        "heading": "Be a Catalyst for Change",
+        "description": "You can’t force change on people. Instead, show them how the future might be and help them participate in creating it."
+      }
+    },
+    {
+      "Tip #7": {
+        "heading": "Remember the Big Picture",
+        "description": "Don’t get so engrossed in the details that you forget to check what’s happening around you."
+      }
+    },
+    {
+      "Tip #8": {
+        "heading": "Make Quality a Requirements Issue",
+        "description": "Involve your users in determining the project’s real quality requirements."
+      }
+    },
+    {
+      "Tip #9": {
+        "heading": "Invest Regularly in Your Knowledge Portfolio",
+        "description": "Make learning a habit."
+      }
+    },
+    {
+      "Tip #10": {
+        "heading": "Critically Analyze What You Read and Hear",
+        "description": "Don’t be swayed by vendors, media hype, or dogma. Analyze information in terms of you and your project."
+      }
+    },
+    {
+      "Tip #11": {
+        "heading": "English is Just Another Programming Language",
+        "description": "Treat English as Just Another Programming Language. Write documents as you would write code: honor the DRY principle, ETC, automation, and so on."
+      }
+    },
+    {
+      "Tip #12": {
+        "heading": "It’s Both What You Say and the Way You Say It",
+        "description": "There’s no point in having great ideas if you don’t communicate them effectively."
+      }
+    },
+    {
+      "Tip #13": {
+        "heading": "Build Documentation In, Don’t Bolt It On",
+        "description": "Documentation created separately from code is less likely to be correct and up to date."
+      }
+    },
+    {
+      "Tip #14": {
+        "heading": "Good Design Is Easier to Change Than Bad Design",
+        "description": "A thing is well designed if it adapts to the people who use it. For code, that means it must adapt by changing."
+      }
+    },
+    {
+      "Tip #15": {
+        "heading": "DRY—Don't Repeat Yourself",
+        "description": "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system."
+      }
+    },
+    {
+      "Tip #16": {
+        "heading": "Make It Easy to Reuse",
+        "description": "If it’s easy to reuse, people will. Create an environment that supports reuse."
+      }
+    },
+    {
+      "Tip #17": {
+        "heading": "Eliminate Effects Between Unrelated Things",
+        "description": "Design components that are self-contained, independent, and have a single, well-defined purpose."
+      }
+    },
+    {
+      "Tip #18": {
+        "heading": "There Are No Final Decisions",
+        "description": "No decision is cast in stone. Instead, consider each as being written in the sand at the beach, and plan for change."
+      }
+    },
+    {
+      "Tip #19": {
+        "heading": "Forgo Following Fads",
+        "description": "Neal Ford says, “Yesterday’s Best Practice Becomes Tomorrow’s Antipattern.” Choose architectures based on fundamentals, not fashion."
+      }
+    },
+    {
+      "Tip #20": {
+        "heading": "Use Tracer Bullets to Find the Target",
+        "description": "Tracer bullets let you home in on your target by trying things and seeing how close they land."
+      }
+    },
+    {
+      "Tip #21": {
+        "heading": "Prototype to Learn",
+        "description": "Prototyping is a learning experience. Its value lies not in the code you produce, but in the lessons you learn."
+      }
+    },
+    {
+      "Tip #22": {
+        "heading": "Program Close to the Problem Domain",
+        "description": "Design and code in the language of the problem domain."
+      }
+    },
+    {
+      "Tip #23": {
+        "heading": "Estimate to Avoid Surprises",
+        "description": "Estimate before you start. You’ll spot potential problems up front."
+      }
+    },
+    {
+      "Tip #24": {
+        "heading": "Iterate the Schedule with the Code",
+        "description": "Use experience you gain as you implement to refine the project time scales."
+      }
+    },
+    {
+      "Tip #25": {
+        "heading": "Keep Knowledge in Plain Text",
+        "description": "Plain text won’t become obsolete. It helps leverage your work and simplifies debugging and testing."
+      }
+    },
+    {
+      "Tip #26": {
+        "heading": "Use the Power of Command Shells",
+        "description": "Use the shell when graphical user interfaces don’t cut it."
+      }
+    },
+    {
+      "Tip #27": {
+        "heading": "Achieve Editor Fluency",
+        "description": "An editor is your most important tool. Know how to make it do what you need, quickly and accurately."
+      }
+    },
+    {
+      "Tip #28": {
+        "heading": "Always Use Version Control",
+        "description": "Version control is a time machine for your work; you can go back."
+      }
+    },
+    {
+      "Tip #29": {
+        "heading": "Fix the Problem, Not the Blame",
+        "description": "It doesn’t really matter whether the bug is your fault or someone else’s—it is still your problem, and it still needs to be fixed."
+      }
+    },
+    {
+      "Tip #30": {
+        "heading": "Don’t Panic",
+        "description": "This is true for galactic hitchhikers and for developers."
+      }
+    },
+    {
+      "Tip #31": {
+        "heading": "Failing Test Before Fixing Code",
+        "description": "Create a focused test that reveals the bug before you try fixing it."
+      }
+    },
+    {
+      "Tip #32": {
+        "heading": "Read the Damn Error Message",
+        "description": "Most exceptions tell both what failed and where it failed. If you’re lucky you might even get parameter values."
+      }
+    },
+    {
+      "Tip #33": {
+        "heading": "“select” Isn't Broken",
+        "description": "It is rare to find a bug in the OS or the compiler, or even a third-party product or library. The bug is most likely in the application."
+      }
+    },
+    {
+      "Tip #34": {
+        "heading": "Don’t Assume It—Prove It",
+        "description": "Prove your assumptions in the actual environment—with real data and boundary conditions."
+      }
+    },
+    {
+      "Tip #35": {
+        "heading": "Learn a Text Manipulation Language",
+        "description": "You spend a large part of each day working with text. Why not have the computer do some of it for you?"
+      }
+    },
+    {
+      "Tip #36": {
+        "heading": "You Can’t Write Perfect Software",
+        "description": "Software can’t be perfect. Protect your code and users from the inevitable errors."
+      }
+    },
+    {
+      "Tip #37": {
+        "heading": "Design with Contracts",
+        "description": "Use contracts to document and verify that code does no more and no less than it claims to do."
+      }
+    },
+    {
+      "Tip #38": {
+        "heading": "Crash Early",
+        "description": "A dead program normally does a lot less damage than a crippled one."
+      }
+    },
+    {
+      "Tip #39": {
+        "heading": "Use Assertions to Prevent the Impossible",
+        "description": "If it can’t happen, use assertions to ensure that it won’t. Assertions validate your assumptions. Use them to protect your code from an uncertain world."
+      }
+    },
+    {
+      "Tip #40": {
+        "heading": "Finish What You Start",
+        "description": "Where possible, the function or object that allocates a resource should be responsible for deallocating it."
+      }
+    },
+    {
+      "Tip #41": {
+        "heading": "Act Locally",
+        "description": "Keep the scope of mutable variables and open resources short and easily visible."
+      }
+    },
+    {
+      "Tip #42": {
+        "heading": "Take Small Steps—Always",
+        "description": "Small steps always; check the feedback; and adjust before proceeding."
+      }
+    },
+    {
+      "Tip #43": {
+        "heading": "Avoid Fortune-Telling",
+        "description": "Only look ahead as far as you can see."
+      }
+    },
+    {
+      "Tip #44": {
+        "heading": "Decoupled Code Is Easier to Change",
+        "description": "Coupling ties things together, so that it’s harder to change just one thing."
+      }
+    },
+    {
+      "Tip #45": {
+        "heading": "Tell, Don’t Ask",
+        "description": "Don’t get values from an object, transform them, and then stick them back. Make the object do the work."
+      }
+    },
+    {
+      "Tip #46": {
+        "heading": "Don’t Chain Method Calls",
+        "description": "Try not to have more than one dot when you access something."
+      }
+    },
+    {
+      "Tip #47": {
+        "heading": "Avoid Global Data",
+        "description": "It’s like adding an extra parameter to every method."
+      }
+    },
+    {
+      "Tip #48": {
+        "heading": "If It’s Important Enough To Be Global, Wrap It in an API",
+        "description": "…but only if you really, really want it to be global."
+      }
+    },
+    {
+      "Tip #49": {
+        "heading": "Programming Is About Code, But Programs Are About Data",
+        "description": "All programs transform data, converting an input into an output. Start designing using transformations."
+      }
+    },
+    {
+      "Tip #50": {
+        "heading": "Don’t Hoard State; Pass It Around",
+        "description": "Don’t hang on to data within a function or module. Take one down and pass it around."
+      }
+    },
+    {
+      "Tip #51": {
+        "heading": "Don't Pay Inheritance Tax",
+        "description": "Consider alternatives that better fit your needs, such as interfaces, delegation, or mixins"
+      }
+    },
+    {
+      "Tip #52": {
+        "heading": "Prefer Interfaces to Express Polymorphism",
+        "description": "Interfaces make polymorphism explicit without the coupling introduced by inheritance."
+      }
+    },
+    {
+      "Tip #53": {
+        "heading": "Delegate to Services: Has-A Trumps Is-A",
+        "description": "Don’t inherit from services: contain them."
+      }
+    },
+    {
+      "Tip #54": {
+        "heading": "Use Mixins to Share Functionality",
+        "description": "Mixins add functionality to classes without the inheritance tax. Combine with interfaces for painless polymorphism."
+      }
+    },
+    {
+      "Tip #55": {
+        "heading": "Parameterize Your App Using External Configuration",
+        "description": "When code relies on values that may change after the application has gone live, keep those values external to the app. When your application will run in different environments, and potentially for different customers, keep the environment and customer specific values outside the app."
+      }
+    },
+    {
+      "Tip #56": {
+        "heading": "Analyze Workflow to Improve Concurrency",
+        "description": "Exploit concurrency in your user’s workflow."
+      }
+    },
+    {
+      "Tip #57": {
+        "heading": "Shared State Is Incorrect State",
+        "description": "Shared state opens a large can of worms that can often only be fixed by rebooting."
+      }
+    },
+    {
+      "Tip #58": {
+        "heading": "Random Failures Are Often Concurrency Issues",
+        "description": "Variations in timing and context can expose concurrency bugs, but in inconsistent and irreproducible ways."
+      }
+    },
+    {
+      "Tip #59": {
+        "heading": "Use Actors For Concurrency Without Shared State",
+        "description": "Use Actors to manage concurrent state without explicit synchronization."
+      }
+    },
+    {
+      "Tip #60": {
+        "heading": "Use Blackboards to Coordinate Workflow",
+        "description": "Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation among participants."
+      }
+    },
+    {
+      "Tip #61": {
+        "heading": "Listen to Your Inner Lizard",
+        "description": "When it feels like your code is pushing back, it’s really your subconscious trying to tell you something’s wrong."
+      }
+    },
+    {
+      "Tip #62": {
+        "heading": "Don’t Program by Coincidence",
+        "description": "Rely only on reliable things. Beware of accidental complexity, and don’t confuse a happy coincidence with a purposeful plan."
+      }
+    },
+    {
+      "Tip #63": {
+        "heading": "Estimate the Order of Your Algorithms",
+        "description": "Get a feel for how long things are likely to take before you write code."
+      }
+    },
+    {
+      "Tip #64": {
+        "heading": "Test Your Estimates",
+        "description": "Facts trump intuition."
+      }
+    },
+    {
+      "Tip #65": {
+        "heading": "Refactor Early, Refactor Often",
+        "description": "Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem."
+      }
+    },
+    {
+      "Tip #66": {
+        "heading": "Design with Contracts",
+        "description": "Use contracts to document and verify that code does no more and no less than it claims to do."
+      }
+    },
+    {
+      "Tip #67": {
+        "heading": "Use Assertions to Prevent the Impossible",
+        "description": "If it can’t happen, use assertions to ensure that it won’t. Assertions validate your assumptions. Use them to protect your code from an uncertain world."
+      }
+    },
+    {
+      "Tip #68": {
+        "heading": "Finish What You Start",
+        "description": "Where possible, the function or object that allocates a resource should be responsible for deallocating it."
+      }
+    },
+    {
+      "Tip #69": {
+        "heading": "Act Locally",
+        "description": "Keep the scope of mutable variables and open resources short and easily visible."
+      }
+    },
+    {
+      "Tip #70": {
+        "heading": "Take Small Steps—Always",
+        "description": "Small steps always; check the feedback; and adjust before proceeding."
+      }
+    },
+    {
+      "Tip #71": {
+        "heading": "Avoid Fortune-Telling",
+        "description": "Only look ahead as far as you can see."
+      }
+    },
+    {
+      "Tip #72": {
+        "heading": "Decoupled Code Is Easier to Change",
+        "description": "Coupling ties things together, so that it’s harder to change just one thing."
+      }
+    },
+    {
+      "Tip #73": {
+        "heading": "Tell, Don’t Ask",
+        "description": "Don’t get values from an object, transform them, and then stick them back. Make the object do the work."
+      }
+    },
+    {
+      "Tip #74": {
+        "heading": "Don’t Chain Method Calls",
+        "description": "Try not to have more than one dot when you access something."
+      }
+    },
+    {
+      "Tip #75": {
+        "heading": "Avoid Global Data",
+        "description": "It’s like adding an extra parameter to every method."
+      }
+    },
+    {
+      "Tip #76": {
+        "heading": "If It’s Important Enough To Be Global, Wrap It in an API",
+        "description": "…but only if you really, really want it to be global."
+      }
+    },
+    {
+      "Tip #77": {
+        "heading": "Programming Is About Code, But Programs Are About Data",
+        "description": "All programs transform data, converting an input into an output. Start designing using transformations."
+      }
+    },
+    {
+      "Tip #78": {
+        "heading": "Don’t Hoard State; Pass It Around",
+        "description": "Don’t hang on to data within a function or module. Take one down and pass it around."
+      }
+    },
+    {
+      "Tip #79": {
+        "heading": "Don't Pay Inheritance Tax",
+        "description": "Consider alternatives that better fit your needs, such as interfaces, delegation, or mixins"
+      }
+    },
+    {
+      "Tip #80": {
+        "heading": "Prefer Interfaces to Express Polymorphism",
+        "description": "Interfaces make polymorphism explicit without the coupling introduced by inheritance."
+      }
+    },
+    {
+      "Tip #81": {
+        "heading": "Delegate to Services: Has-A Trumps Is-A",
+        "description": "Don’t inherit from services: contain them."
+      }
+    },
+    {
+      "Tip #82": {
+        "heading": "Use Mixins to Share Functionality",
+        "description": "Mixins add functionality to classes without the inheritance tax. Combine with interfaces for painless polymorphism."
+      }
+    },
+    {
+      "Tip #83": {
+        "heading": "Parameterize Your App Using External Configuration",
+        "description": "When code relies on values that may change after the application has gone live, keep those values external to the app. When your application will run in different environments, and potentially for different customers, keep the environment and customer specific values outside the app."
+      }
+    },
+    {
+      "Tip #84": {
+        "heading": "Analyze Workflow to Improve Concurrency",
+        "description": "Exploit concurrency in your user’s workflow."
+      }
+    },
+    {
+      "Tip #85": {
+        "heading": "Shared State Is Incorrect State",
+        "description": "Shared state opens a large can of worms that can often only be fixed by rebooting."
+      }
+    },
+    {
+      "Tip #86": {
+        "heading": "Random Failures Are Often Concurrency Issues",
+        "description": "Variations in timing and context can expose concurrency bugs, but in inconsistent and irreproducible ways."
+      }
+    },
+    {
+      "Tip #87": {
+        "heading": "Use Actors For Concurrency Without Shared State",
+        "description": "Use Actors to manage concurrent state without explicit synchronization."
+      }
+    },
+    {
+      "Tip #88": {
+        "heading": "Use Blackboards to Coordinate Workflow",
+        "description": "Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation among participants."
+      }
+    },
+    {
+      "Tip #89": {
+        "heading": "Listen to Your Inner Lizard",
+        "description": "When it feels like your code is pushing back, it’s really your subconscious trying to tell you something’s wrong."
+      }
+    },
+    {
+      "Tip #90": {
+        "heading": "Don’t Program by Coincidence",
+        "description": "Rely only on reliable things. Beware of accidental complexity, and don’t confuse a happy coincidence with a purposeful plan."
+      }
+    },
+    {
+      "Tip #91": {
+        "heading": "Estimate the Order of Your Algorithms",
+        "description": "Get a feel for how long things are likely to take before you write code."
+      }
+    },
+    {
+      "Tip #92": {
+        "heading": "Test Your Estimates",
+        "description": "Facts trump intuition."
+      }
+    },
+    {
+      "Tip #93": {
+        "heading": "Refactor Early, Refactor Often",
+        "description": "Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem."
+      }
+    }
+  ]
