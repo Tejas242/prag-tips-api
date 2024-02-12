@@ -1,16 +1,14 @@
 # Prag-tips-API
 
-
 ## Description
 
 An api hosted on vercel to get random pragmatic programmer tips.
+made for a widget with Kustom kwgt app.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -23,12 +21,5 @@ flask run --debug
 
 ## Usage
 
-Instructions on how to use the project.
-
-## Contributing
-
-Guidelines on how to contribute to the project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+`https://prag-tips-api.vercel.app/tips/` : To get all tips
+`https://prag-tips-api.vercel.app/tips/random/` : To get random tip
